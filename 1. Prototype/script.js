@@ -100,6 +100,7 @@
 
 // let hanan = new Mahasiwa("Azati Hanani", 10);
 
+// TODO 4. Object.create
 // // * Materi 1.3. Prototype
 
 // function Mahasiswa(nama, energi) {
@@ -152,4 +153,5 @@ class Mahasiswa {
 let abu = new Mahasiswa("Abu Abdirohman", 10);
 let hanan = new Mahasiswa("Azati Hanani", 10);
 
-// TODO 4. Object.create
+abu;
+hanan;
