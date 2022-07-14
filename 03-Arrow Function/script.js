@@ -7,7 +7,7 @@
 // tampilkanPesan("Abu Abdirohman");
 
 // * Function Expression
-// ? Function tanpa nama = Anonymoud function
+// ? Function tanpa nama = Anonymous function
 
 // let tampilPesan = function (nama) {
 //   console.log("Halo", nama);
