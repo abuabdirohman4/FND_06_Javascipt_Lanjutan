@@ -51,3 +51,5 @@ const hasil = angka.filter(e => e > 5) // 8,9,9
                 .map(e => e * 3) // 24,27,27
                 .reduce((acc, cur) => acc + cur) //78
 console.log("Hasil :", hasil)
+
+// http://latentflip.com/loupe/
